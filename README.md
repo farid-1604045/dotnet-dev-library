@@ -1,2 +1,25 @@
-# dotnet-dev-library
-A personal collection of essential .NET development books covering .NET Framework, .NET Core, ASP.NET, C#, design patterns, performance optimization, and software architecture—curated for learning, reference, and growth as a .NET developer.
+# 📚 dotnet-dev-library
+
+A curated collection of essential books and resources for .NET development. This repository serves as a personal archive to organize, reference, and learn from top materials related to the .NET ecosystem.
+
+---
+
+## 📖 Contents
+
+The collection includes books on the following topics:
+
+- ✅ .NET Framework & .NET Core
+- ✅ ASP.NET / ASP.NET Core
+- ✅ C# Language and Advanced Features
+- ✅ Software Architecture & Design Patterns
+- ✅ Entity Framework (EF & EF Core)
+- ✅ Unit Testing & Test-Driven Development
+- ✅ Performance Optimization
+- ✅ Clean Code & Refactoring
+- ✅ WinForms & Desktop Development
+
+---
+
+## 📂 Repository Structure
+
+Each book is categorized by topic for easy navigation.
